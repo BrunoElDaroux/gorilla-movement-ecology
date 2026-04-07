@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files - use DVC or document separately)
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Outputs
+outputs/figures/*.png
+outputs/figures/*.pdf
+outputs/figures/*.svg
+outputs/reports/*.csv
+outputs/reports/*.xlsx
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
+logs/

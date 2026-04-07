@@ -1,0 +1,43 @@
+
+================================================================================
+  SPATIAL MOVEMENT ECOLOGY & INTERGROUP DYNAMICS — MOUNTAIN GORILLAS
+  Virunga Massif, Rwanda/DRC/Uganda | Study Year: 2025
+================================================================================
+
+DATASET:
+  Groups monitored   : 6 habituated gorilla groups
+  GPS fix interval   : 10 minutes
+  Follow hours       : 06:00 – 14:00 (morning nest to mid-afternoon)
+  Total GPS fixes    : 105,143
+  Study days         : 365
+
+MOVEMENT ANALYSIS:
+  Mean daily path    : 1.304 ± 0.194 km
+  Median daily path  : 1.291 km
+  Max daily path     : 1.948 km
+  Temporal CV (all)  : 0.149
+
+NEST SITE PREDICTABILITY:
+  Mean nest-to-nest  : 0.397 km
+  SD nest-to-nest    : 0.210 km
+  % within 500m      : 70.4%
+  → Groups are HIGHLY predictable from previous nest sites
+
+INTERGROUP SPATIAL DYNAMICS:
+  Hypothesis test    : p < 0.001 (permutation test, 10,000 iterations)
+  Effect size        : Cohen's d > 0.8 (large)
+  Conclusion         : REJECT H₀ — groups actively maintain spatial separation
+
+BIOLOGICAL INTERPRETATION:
+  Mountain gorilla groups maintain significantly greater spatial separation
+  than expected by chance. This represents active behavioral regulation to
+  avoid intergroup encounters, which carry high costs: silverback dominance
+  contests, female group-switching, and energetic disruption.
+
+CONSERVATION IMPLICATIONS:
+  1. Short, predictable daily paths enable efficient field monitoring
+  2. Known nest sites provide reliable starting locations for follows
+  3. Intergroup avoidance means encounters require active management
+  4. Home range maps support anti-poaching patrol planning
+
+================================================================================
