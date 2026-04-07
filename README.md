@@ -1,5 +1,9 @@
 # 🦍 Spatial Movement Ecology & Intergroup Dynamics in Mountain Gorillas
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **Study Area:** Virunga Massif, Rwanda / DRC / Uganda
 > **Species:** *Gorilla beringei beringei* (Mountain Gorilla)
 > **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn
