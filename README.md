@@ -7,8 +7,8 @@
 
 > **Study Area:** Virunga Massif, Rwanda / DRC / Uganda
 >> **Species:** *Gorilla beringei beringei* (Mountain Gorilla)
->> **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn 
->> **Data:**  SMART Conservation Software GPS Export
+>>> **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn 
+>>>> **Data:**  SMART Conservation Software GPS Export
 
 ---
 
