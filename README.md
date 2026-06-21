@@ -91,7 +91,6 @@ gorilla-movement-ecology/
 │   └── README_data.txt
 ├── src/
 │   ├── __init__.py
-│   ├── data_generator.py              <- Synthetic data generator
 │   ├── movement_metrics.py            <- Distance, speed, turning angle calculations
 │   ├── home_range.py                  <- MCP and KDE home range estimation
 │   ├── intergroup_analysis.py         <- Pairwise distance and overlap metrics
