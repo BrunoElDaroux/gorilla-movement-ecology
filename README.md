@@ -109,15 +109,14 @@ gorilla-movement-ecology/
 
 ---
 
-## 📊 Dataset
+## 📊 Alternative Dataset
 
-### Primary Source (Real Data)
 - **Movebank**: https://www.movebank.org  
-  Search: "Mountain gorilla Gorilla beringei" — free registration required
+  Search: "Mountain gorilla Gorilla beringei" 
 - **GBIF**: https://www.gbif.org/species/2889338
 - **Dryad**: Grueter et al. (2022) gorilla ranging data
 
-### Simulated Groups (Real Virunga Groups Used as Templates)
+### Gorilla Groups Used for Research
 | Group   | Size | Center Lat | Center Lon |
 |---------|------|------------|------------|
 | Susa    | 28   | -1.435     | 29.522     |
