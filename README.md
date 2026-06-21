@@ -94,7 +94,7 @@ gorilla-movement-ecology/
 │   ├── movement_metrics.py            <- Distance, speed, turning angle calculations
 │   ├── home_range.py                  <- MCP and KDE home range estimation
 │   ├── intergroup_analysis.py         <- Pairwise distance and overlap metrics
-│   └── visualization.py              <- Plotting utilities
+│   └── visualization.py               <- Plotting utilities
 ├── notebooks/
 │   ├── 01_data_loading_exploration.ipynb
 │   ├── 02_movement_analysis.ipynb
