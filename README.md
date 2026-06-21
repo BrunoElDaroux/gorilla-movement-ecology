@@ -6,8 +6,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrunoElDaroux/gorilla-zoonotic-analysis/main)
 
 > **Study Area:** Virunga Massif, Rwanda / DRC / Uganda
-> **Species:** *Gorilla beringei beringei* (Mountain Gorilla)
-> **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn 
+>> **Species:** *Gorilla beringei beringei* (Mountain Gorilla)
+>> **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn 
 >> **Data:**  SMART Conservation Software GPS Export
 
 ---
