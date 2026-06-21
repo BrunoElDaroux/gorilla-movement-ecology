@@ -20,7 +20,7 @@ This project analyzes GPS movement data from habituated mountain gorilla groups 
 - Inter-group spatial separation and avoidance behavior
 - Nest-site predictability for field monitoring efficiency
 
-GPS fixes are recorded every 10 minutes by field researchers walking with gorilla groups from morning nest departure (~06:00) to mid-afternoon (~14:00), simulating SMART Conservation Software exports.
+GPS fixes are recorded every 10 minutes by field researchers walking with gorilla groups from morning nest departure (~06:00) to mid-afternoon (~14:00),  SMART Conservation Software exports.
 
 ---
 
