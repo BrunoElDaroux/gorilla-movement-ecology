@@ -128,23 +128,6 @@ gorilla-movement-ecology/
 
 ---
 
-## 🚀 Setup
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Generate dataset
-python src/data_generator.py
-
-# 3. Open VS Code and run notebooks in order (01 -> 06)
-code .
-```
-
-Install VS Code Jupyter extension: ms-toolsai.jupyter
-
----
-
 ## 📚 References
 
 1. Robbins, M.M. et al. (2009). Intergroup encounters among mountain gorillas. *Am. J. Primatol.*
@@ -154,4 +137,4 @@ Install VS Code Jupyter extension: ms-toolsai.jupyter
 
 ## Author
 
-*Bioinformatician with research experience at the Dian Fossey Gorilla Fund, building end-to-end computational pipelines across four domains: spatial movement ecology (GeoPandas, KDE, permutation testing), population genetics (CERVUS microsatellite LOD scoring, Queller-Goodnight kinship estimation), machine learning survival analysis (Random Forest, temporal cross-validation), and conservation epidemiology (logistic regression, SciPy hypothesis testing, temporal linkage). Technical stack: Python · R · SQL · scikit-learn · SciPy · GeoPandas · Git. All work is grounded in longitudinal biological datasets with direct conservation policy implications across the Virunga Massif — Rwanda, Uganda, and DRC.*
+*Data Technician with research experience at the Dian Fossey Gorilla Fund, building end-to-end computational pipelines across four domains: spatial movement ecology (GeoPandas, KDE, permutation testing), population genetics (CERVUS microsatellite LOD scoring, Queller-Goodnight kinship estimation), machine learning survival analysis (Random Forest, temporal cross-validation), and conservation epidemiology (logistic regression, SciPy hypothesis testing, temporal linkage). Technical stack: Python · R · SQL · scikit-learn · SciPy · GeoPandas · Git. All work is grounded in longitudinal biological datasets with direct conservation policy implications across the Virunga Massif — Rwanda, Uganda, and DRC.*
