@@ -33,16 +33,16 @@ GPS fixes are recorded every 10 minutes by field researchers walking with gorill
 The project was built around four core questions:
 
 **1. How do mountain gorilla groups move through the Virunga Massif?**
-What are the daily path lengths, movement speeds, and directional patterns — and are they consistent enough to be useful for field operations?
+What are the daily path lengths, movement speeds, and directional patterns; and are they consistent enough to be useful for field operations?
 
 **2. How large are the home ranges of each group, and do they vary by season?**
-Using both MCP and KDE methods — what territory does each group occupy, and does rainfall season affect ranging behavior?
+Using both MCP and KDE methods; what territory does each group occupy, and does rainfall season affect ranging behavior?
 
 **3. Do gorilla groups actively maintain spatial separation from one another?**
 This was the central hypothesis test: are observed inter-group distances greater than what would occur if groups moved independently with no awareness of each other?
 
 **4. How predictable is a group's daily location from its previous night's nest site?**
-A question with direct conservation and operational value — can field rangers reliably relocate groups each morning?
+A question with direct conservation and operational value; can field rangers reliably relocate groups each morning?
 
 ---
 
