@@ -67,15 +67,15 @@ KDE 95% utilization distributions ranged from roughly 18–34 km² depending on 
 
 ### 🔑 One-Line Takeaway for Each Bullet 
 
-| CV Bullet | Core Finding |
+| Coefficient of Variation (CV) Bullet | Core Finding |
 |---|---|
-| GPS movement characterization | Mean 1.30 km/day, low CV — short and consistent |
+| GPS movement characterization | Mean 1.30 km/day, low Coefficient of Variation — short and consistent |
 | Home range + intergroup metrics | 18–34 km² KDE ranges; 4.54 km mean group separation |
 | Hypothesis testing | p < 0.001, d = 2.05 — active avoidance confirmed |
 | Nest-site predictability | 70% within 500m — groups reliably relocatable |
 | Visualizations for reporting | 16 publication-ready figures across all analyses |
 
-> ⚠️ **Data Note:** The dataset used in this project `(gorilla_gps_data.csv)` is synthetically generated to replicate the structure and statistical properties of real mountain gorilla GPS tracking data recorded via SMART Conservation Software. Real data was not published here due to conservation sensitivity — precise location data for critically endangered species is typically restricted to prevent poaching risk. The synthetic data preserves biologically realistic movement parameters (daily path lengths, home range sizes, intergroup distances) drawn from peer-reviewed literature. Researchers with institutional affiliation may request access to real Virunga gorilla tracking data through Movebank or directly from the Dian Fossey Gorilla Fund.
+
 ---
 
 ## 📁 Project Structure
