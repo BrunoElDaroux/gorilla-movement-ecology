@@ -8,7 +8,6 @@
 > **Study Area:** Virunga Massif, Rwanda / DRC / Uganda
 >> **Species:** *Gorilla beringei beringei* (Mountain Gorilla)
 >>> **Tools:** Python · GeoPandas · SciPy · Matplotlib · Seaborn 
->>>> **Data:**  SMART Conservation Software GPS Export
 
 ---
 
@@ -22,13 +21,10 @@ This project analyzes GPS movement data from habituated mountain gorilla groups 
 
 GPS fixes are recorded every 10 minutes by field researchers walking with gorilla groups from morning nest departure (~06:00) to mid-afternoon (~14:00),  SMART Conservation Software exports.
 
----
-
-## 🦍 Research Questions & Key Findings
 
 ---
 
-### 🔬 Research Questions
+###  🦍 🔬 Research Questions
 
 The project was built around four core questions:
 
@@ -43,6 +39,18 @@ This was the central hypothesis test: are observed inter-group distances greater
 
 **4. How predictable is a group's daily location from its previous night's nest site?**
 A question with direct conservation and operational value; can field rangers reliably relocate groups each morning?
+
+---
+
+## ⚠️ Data Transparency
+
+The dataset used in this project is **synthetic** and was created strictly for **educational, analytical, and portfolio purposes**, with the goal of exploring mountain gorilla movement ecology and demonstrating how spatial data analysis can be applied to wildlife research.
+
+The variables, movement patterns, biological context, and assumptions were informed by published scientific knowledge and research on mountain gorillas. However, **the GPS observations and all findings presented in this repository are simulated and should not be interpreted as real field results**.
+
+This project demonstrates **what an analysis of this type could look like using real data**. If a comparable study were conducted using appropriate real-world GPS observations from an authorized institution, the same or similar analytical approaches could be applied, and the resulting analysis could be presented in a similar form.
+
+Any future use of real institutional or field data would require the appropriate **data-access permission, research authorization, and applicable ethical or regulatory approvals**.
 
 ---
 
@@ -137,4 +145,4 @@ gorilla-movement-ecology/
 
 ## Author
 
-*Data Technician with research experience at the Dian Fossey Gorilla Fund, building end-to-end computational pipelines across four domains: spatial movement ecology (GeoPandas, KDE, permutation testing), population genetics (CERVUS microsatellite LOD scoring, Queller-Goodnight kinship estimation), machine learning survival analysis (Random Forest, temporal cross-validation), and conservation epidemiology (logistic regression, SciPy hypothesis testing, temporal linkage). Technical stack: Python · R · SQL · scikit-learn · SciPy · GeoPandas · Git. All work is grounded in longitudinal biological datasets with direct conservation policy implications across the Virunga Massif : Rwanda, Uganda, and DRC.*
+*A Former Data Entry Intern with research experience at the Dian Fossey Gorilla Fund.*
